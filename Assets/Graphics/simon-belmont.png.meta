@@ -1,0 +1,3109 @@
+fileFormatVersion: 2
+guid: b92d736ebd8164f40b6d79abb3fb2f95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6538629210758148705
+    second: simon-belmont_0
+  - first:
+      213: -8106901694215070078
+    second: simon-belmont_1
+  - first:
+      213: 975540320592707587
+    second: simon-belmont_2
+  - first:
+      213: -8784523661020926025
+    second: simon-belmont_3
+  - first:
+      213: 7435657962248583056
+    second: simon-belmont_4
+  - first:
+      213: -181844194458090166
+    second: simon-belmont_5
+  - first:
+      213: 938411260949558061
+    second: simon-belmont_6
+  - first:
+      213: 326549888262069902
+    second: simon-belmont_7
+  - first:
+      213: 2390227715960600082
+    second: simon-belmont_8
+  - first:
+      213: -4744628614411378876
+    second: simon-belmont_9
+  - first:
+      213: 6404101944633673417
+    second: simon-belmont_10
+  - first:
+      213: -7402475086022237013
+    second: simon-belmont_11
+  - first:
+      213: -7368053917664873907
+    second: simon-belmont_12
+  - first:
+      213: -5109017180985040829
+    second: simon-belmont_13
+  - first:
+      213: 5786160971108625935
+    second: simon-belmont_14
+  - first:
+      213: -2976353448619574687
+    second: simon-belmont_15
+  - first:
+      213: -115258355187606969
+    second: simon-belmont_16
+  - first:
+      213: -6972702379514772137
+    second: simon-belmont_17
+  - first:
+      213: 4175453613143484750
+    second: simon-belmont_18
+  - first:
+      213: 7997854615294137318
+    second: simon-belmont_19
+  - first:
+      213: -7843071814986476311
+    second: simon-belmont_20
+  - first:
+      213: 6177586184815664710
+    second: simon-belmont_21
+  - first:
+      213: -2096492265862378763
+    second: simon-belmont_22
+  - first:
+      213: 1989633466504957944
+    second: simon-belmont_23
+  - first:
+      213: 4761880759486239281
+    second: simon-belmont_24
+  - first:
+      213: -8259451028801253461
+    second: simon-belmont_25
+  - first:
+      213: -945503496912836406
+    second: simon-belmont_26
+  - first:
+      213: -2833065576706588127
+    second: simon-belmont_27
+  - first:
+      213: -5347915497983033206
+    second: simon-belmont_28
+  - first:
+      213: 477970886153514076
+    second: simon-belmont_29
+  - first:
+      213: -1887415905462671253
+    second: simon-belmont_30
+  - first:
+      213: -7793915597698586357
+    second: simon-belmont_31
+  - first:
+      213: -6440901638208115807
+    second: simon-belmont_32
+  - first:
+      213: 6404090198498426002
+    second: simon-belmont_33
+  - first:
+      213: 4818743763669917970
+    second: simon-belmont_34
+  - first:
+      213: 5894635662747521108
+    second: simon-belmont_35
+  - first:
+      213: -9194903888175750581
+    second: simon-belmont_36
+  - first:
+      213: -113657133909528446
+    second: simon-belmont_37
+  - first:
+      213: 696002044944536493
+    second: simon-belmont_38
+  - first:
+      213: 953370020306543170
+    second: simon-belmont_39
+  - first:
+      213: 3639725967669138469
+    second: simon-belmont_40
+  - first:
+      213: 2904284420503757966
+    second: simon-belmont_41
+  - first:
+      213: 7210305057034262464
+    second: simon-belmont_42
+  - first:
+      213: -622286673238287908
+    second: simon-belmont_43
+  - first:
+      213: -6422270503862046779
+    second: simon-belmont_44
+  - first:
+      213: -1592191544002873255
+    second: simon-belmont_45
+  - first:
+      213: 7120150349250534044
+    second: simon-belmont_46
+  - first:
+      213: 9219083009401414573
+    second: simon-belmont_47
+  - first:
+      213: -8715686037042540784
+    second: simon-belmont_48
+  - first:
+      213: 7132185500939406119
+    second: simon-belmont_49
+  - first:
+      213: -8056163216371894590
+    second: simon-belmont_50
+  - first:
+      213: 1915441050094589718
+    second: simon-belmont_51
+  - first:
+      213: 7129463037305912125
+    second: simon-belmont_52
+  - first:
+      213: 8831550298795233563
+    second: simon-belmont_53
+  - first:
+      213: 7772700916651961228
+    second: simon-belmont_54
+  - first:
+      213: 280550200652209286
+    second: simon-belmont_55
+  - first:
+      213: -1616636988494830531
+    second: simon-belmont_56
+  - first:
+      213: -1561925927443515772
+    second: simon-belmont_57
+  - first:
+      213: 8779264592699514405
+    second: simon-belmont_58
+  - first:
+      213: -6826952090966391637
+    second: simon-belmont_59
+  - first:
+      213: -3919085500921981530
+    second: simon-belmont_60
+  - first:
+      213: -968282534503570016
+    second: simon-belmont_61
+  - first:
+      213: -6562910642384382706
+    second: simon-belmont_62
+  - first:
+      213: 7416145323455167427
+    second: simon-belmont_63
+  - first:
+      213: 3617280257528427089
+    second: simon-belmont_64
+  - first:
+      213: -5043743566686884876
+    second: simon-belmont_65
+  - first:
+      213: 5247564279422862891
+    second: simon-belmont_66
+  - first:
+      213: -4485067110708875796
+    second: simon-belmont_67
+  - first:
+      213: -964500819802800081
+    second: simon-belmont_68
+  - first:
+      213: 5790693288183198354
+    second: simon-belmont_69
+  - first:
+      213: -6140916849042415376
+    second: simon-belmont_70
+  - first:
+      213: 8644999151466377041
+    second: simon-belmont_71
+  - first:
+      213: -4486138198630001120
+    second: simon-belmont_72
+  - first:
+      213: -578547332421385602
+    second: simon-belmont_73
+  - first:
+      213: -7078987241741297151
+    second: simon-belmont_74
+  - first:
+      213: 3130017563429003225
+    second: simon-belmont_75
+  - first:
+      213: 4283411246141429075
+    second: simon-belmont_76
+  - first:
+      213: 6440406100968086924
+    second: simon-belmont_77
+  - first:
+      213: -3607617468061122422
+    second: simon-belmont_78
+  - first:
+      213: -2645066600175961462
+    second: simon-belmont_79
+  - first:
+      213: -3466851455190191397
+    second: simon-belmont_80
+  - first:
+      213: 4355408993988717736
+    second: simon-belmont_81
+  - first:
+      213: -9022791795371743697
+    second: simon-belmont_82
+  - first:
+      213: -1427960163744211693
+    second: simon-belmont_83
+  - first:
+      213: -3420417781957850188
+    second: simon-belmont_84
+  - first:
+      213: 5879950051282627186
+    second: simon-belmont_85
+  - first:
+      213: 7867567541350199323
+    second: simon-belmont_86
+  - first:
+      213: 1188156437162440627
+    second: simon-belmont_87
+  - first:
+      213: 1201174044218003305
+    second: simon-belmont_88
+  - first:
+      213: -6443339316514792987
+    second: simon-belmont_89
+  - first:
+      213: 7924348530868295759
+    second: simon-belmont_90
+  - first:
+      213: 46272481633499621
+    second: simon-belmont_91
+  - first:
+      213: 1251352365843526004
+    second: simon-belmont_92
+  - first:
+      213: 3792830223231703614
+    second: simon-belmont_93
+  - first:
+      213: -716802955409932652
+    second: simon-belmont_94
+  - first:
+      213: 3316542713636648478
+    second: simon-belmont_95
+  - first:
+      213: -7601459096219433166
+    second: simon-belmont_96
+  - first:
+      213: -6461723537943882823
+    second: simon-belmont_97
+  - first:
+      213: -2739519245147251978
+    second: simon-belmont_98
+  - first:
+      213: -7180024313709849324
+    second: simon-belmont_99
+  - first:
+      213: -2679836938944821983
+    second: simon-belmont_100
+  - first:
+      213: -3077326079900451616
+    second: simon-belmont_101
+  - first:
+      213: -6358856406826499253
+    second: simon-belmont_102
+  - first:
+      213: 6698857197116483865
+    second: simon-belmont_103
+  - first:
+      213: -3436271238333306656
+    second: simon-belmont_104
+  - first:
+      213: -873220985162977911
+    second: simon-belmont_105
+  - first:
+      213: 2719600325133312923
+    second: simon-belmont_106
+  - first:
+      213: 15651774911623233
+    second: simon-belmont_107
+  - first:
+      213: 7709430710724857796
+    second: simon-belmont_108
+  - first:
+      213: 817311556792861738
+    second: simon-belmont_109
+  - first:
+      213: 8256553404755748442
+    second: simon-belmont_110
+  - first:
+      213: -4152707636774409344
+    second: simon-belmont_111
+  - first:
+      213: 5811017752935183494
+    second: simon-belmont_112
+  - first:
+      213: -9027063744098400759
+    second: simon-belmont_113
+  - first:
+      213: 549971237325384911
+    second: simon-belmont_114
+  - first:
+      213: 2882785810163648481
+    second: simon-belmont_115
+  - first:
+      213: 8326266191854072574
+    second: simon-belmont_116
+  - first:
+      213: 5832515276121529726
+    second: simon-belmont_117
+  - first:
+      213: -4587763381787687452
+    second: simon-belmont_118
+  - first:
+      213: -8674566755315659230
+    second: simon-belmont_119
+  - first:
+      213: -5399630104325441690
+    second: simon-belmont_120
+  - first:
+      213: 3076810681151858125
+    second: simon-belmont_121
+  - first:
+      213: 2161571926825640547
+    second: simon-belmont_122
+  - first:
+      213: 3640956608060545301
+    second: simon-belmont_123
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: simon-belmont_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 768
+        width: 32
+        height: 15
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d84ce306f1245a0800000000000000
+      internalID: -6538629210758148705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 761
+        width: 16
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e5c4f7cdf7e7f80800000000000000
+      internalID: -8106901694215070078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 759
+        width: 16
+        height: 32
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300cff0c0c0d98d00800000000000000
+      internalID: 975540320592707587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 759
+        width: 16
+        height: 32
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf65dfc54a171680800000000000000
+      internalID: -8784523661020926025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 761
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097b1275583c03760800000000000000
+      internalID: 7435657962248583056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 768
+        width: 32
+        height: 15
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45cbd82ba5f97df0800000000000000
+      internalID: -181844194458090166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 724
+        width: 16
+        height: 23
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23ff16e118e50d00800000000000000
+      internalID: 938411260949558061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 720
+        width: 15
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8edd4ba463288400800000000000000
+      internalID: 326549888262069902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 720
+        width: 12
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216ff16917bcb2120800000000000000
+      internalID: 2390227715960600082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 720
+        width: 16
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f1bdec961b72eb0800000000000000
+      internalID: -4744628614411378876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 721
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6474bc9c0ffd850800000000000000
+      internalID: 6404101944633673417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 721
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba427f61120254990800000000000000
+      internalID: -7402475086022237013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 720
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42f8afdff96fb990800000000000000
+      internalID: -7368053917664873907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 724
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340e40051ff1919b0800000000000000
+      internalID: -5109017180985040829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 680
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ea8203fb29c4050800000000000000
+      internalID: 5786160971108625935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 680
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a7501de4ed1b6d0800000000000000
+      internalID: -2976353448619574687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 681
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a95a9f225866ef0800000000000000
+      internalID: -115258355187606969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 680
+        width: 16
+        height: 30
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7554088f02cfb3f90800000000000000
+      internalID: -6972702379514772137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 680
+        width: 12
+        height: 31
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49e98b40f032f930800000000000000
+      internalID: 4175453613143484750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 680
+        width: 15
+        height: 30
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e353dde5661efe60800000000000000
+      internalID: 7997854615294137318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 640
+        width: 15
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e45ad71dbfc72390800000000000000
+      internalID: -7843071814986476311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 640
+        width: 12
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e5c43a7e13bb550800000000000000
+      internalID: 6177586184815664710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 640
+        width: 16
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa4be25463c7e2e0800000000000000
+      internalID: -2096492265862378763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 640
+        width: 16
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffc144a8199c9b10800000000000000
+      internalID: 1989633466504957944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 640
+        width: 12
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132d1fb3259951240800000000000000
+      internalID: 4761880759486239281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 640
+        width: 15
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf019cbc09806d80800000000000000
+      internalID: -8259451028801253461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 600
+        width: 15
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8ee9c3495e0e2f0800000000000000
+      internalID: -945503496912836406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 600
+        width: 12
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12244034eddeea8d0800000000000000
+      internalID: -2833065576706588127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_28
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 600
+        width: 16
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a804ae5603368c5b0800000000000000
+      internalID: -5347915497983033206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 600
+        width: 16
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ca8221df712a600800000000000000
+      internalID: 477970886153514076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 600
+        width: 12
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68a973eb3d8ec5e0800000000000000
+      internalID: -1887415905462671253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 600
+        width: 15
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09accdce0376d390800000000000000
+      internalID: -7793915597698586357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 561
+        width: 22
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abaf5dd5125d96a0800000000000000
+      internalID: -6440901638208115807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 560
+        width: 16
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c3f0fea16efd850800000000000000
+      internalID: 6404090198498426002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 560
+        width: 24
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211ac291ced9fd240800000000000000
+      internalID: 4818743763669917970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 560
+        width: 24
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4505a6677e3fdc150800000000000000
+      internalID: 5894635662747521108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 560
+        width: 16
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b422d6161a3256080800000000000000
+      internalID: -9194903888175750581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_37
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 561
+        width: 22
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280322b50753c6ef0800000000000000
+      internalID: -113657133909528446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_38
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 521
+        width: 44
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da35ddb1c22b8a900800000000000000
+      internalID: 696002044944536493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_39
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 520
+        width: 32
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242e0e77bfc0b3d00800000000000000
+      internalID: 953370020306543170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 520
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5241fa6cb77e28230800000000000000
+      internalID: 3639725967669138469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 520
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84e3dafa471e4820800000000000000
+      internalID: 2904284420503757966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 520
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7dabe5f36201460800000000000000
+      internalID: 7210305057034262464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 521
+        width: 44
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd91c2551913d57f0800000000000000
+      internalID: -622286673238287908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 484
+        width: 44
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf65ddd0038fd6a0800000000000000
+      internalID: -6422270503862046779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_45
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 484
+        width: 32
+        height: 23
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958f35df93667e9e0800000000000000
+      internalID: -1592191544002873255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_46
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 480
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a937ab40bdfc260800000000000000
+      internalID: 7120150349250534044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_47
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 480
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3e53af623c0ff70800000000000000
+      internalID: 9219083009401414573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_48
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 484
+        width: 32
+        height: 23
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f4f3c1ab9ab0780800000000000000
+      internalID: -8715686037042540784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 484
+        width: 44
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b4fa7dcec9af260800000000000000
+      internalID: 7132185500939406119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 60
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6b593fc32c23090800000000000000
+      internalID: -8056163216371894590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 440
+        width: 32
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617d6139c73059a10800000000000000
+      internalID: 1915441050094589718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_52
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 440
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b75e1ebd0f0f260800000000000000
+      internalID: 7129463037305912125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_53
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 440
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b115fa78438ff8a70800000000000000
+      internalID: 8831550298795233563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 440
+        width: 32
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ba46a5d4e2edb60800000000000000
+      internalID: 7772700916651961228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_55
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 441
+        width: 60
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c1a8bcbe6b4e300800000000000000
+      internalID: 280550200652209286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 60
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34220a693d8099e0800000000000000
+      internalID: -1616636988494830531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_57
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 400
+        width: 32
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486b149f4ace25ae0800000000000000
+      internalID: -1561925927443515772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_58
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 400
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ed40de1a636d970800000000000000
+      internalID: 8779264592699514405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_59
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 400
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba486577e3bc141a0800000000000000
+      internalID: -6826952090966391637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_60
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 400
+        width: 32
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a55929408c9c99c0800000000000000
+      internalID: -3919085500921981530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_61
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 401
+        width: 60
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a523b04a28ff82f0800000000000000
+      internalID: -968282534503570016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 60
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e055c04ea8bdbe4a0800000000000000
+      internalID: -6562910642384382706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_63
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 360
+        width: 32
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb383711e07be660800000000000000
+      internalID: 7416145323455167427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_64
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 360
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152f303aa39233230800000000000000
+      internalID: 3617280257528427089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_65
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 360
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb6771f2f5010ab0800000000000000
+      internalID: -5043743566686884876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 360
+        width: 32
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26470bc8e713d840800000000000000
+      internalID: 5247564279422862891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_67
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 361
+        width: 60
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cede868c937d1c1c0800000000000000
+      internalID: -4485067110708875796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 60
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20c4125d976d92f0800000000000000
+      internalID: -964500819802800081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_69
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 320
+        width: 32
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292f56d7ddcac5050800000000000000
+      internalID: 5790693288183198354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_70
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 320
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0ad9969a417caa0800000000000000
+      internalID: -6140916849042415376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_71
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 320
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fe4b2dce439f770800000000000000
+      internalID: 8644999151466377041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_72
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 320
+        width: 32
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0261951b3190eb1c0800000000000000
+      internalID: -4486138198630001120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_73
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 321
+        width: 60
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e720645344698f7f0800000000000000
+      internalID: -578547332421385602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 284
+        width: 60
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10adc761c9262cd90800000000000000
+      internalID: -7078987241741297151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_75
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 284
+        width: 32
+        height: 23
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df5be0f36e007b20800000000000000
+      internalID: 3130017563429003225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_76
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 280
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3555c2975dbb17b30800000000000000
+      internalID: 4283411246141429075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_77
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 280
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d1671e93be06950800000000000000
+      internalID: 6440406100968086924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_78
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 284
+        width: 32
+        height: 23
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8009bad60b2fedc0800000000000000
+      internalID: -3607617468061122422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_79
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 284
+        width: 60
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af249f0f5da4bd0800000000000000
+      internalID: -2645066600175961462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 244
+        width: 60
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2b75c38f443efc0800000000000000
+      internalID: -3466851455190191397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_81
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 244
+        width: 32
+        height: 23
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac2d327765817c30800000000000000
+      internalID: 4355408993988717736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_82
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 240
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26ee8abaaa98c280800000000000000
+      internalID: -9022791795371743697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_83
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 240
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d1e96fbcdde2ce0800000000000000
+      internalID: -1427960163744211693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_84
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 244
+        width: 32
+        height: 23
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb09f2462c3880d0800000000000000
+      internalID: -3420417781957850188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_85
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 244
+        width: 60
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aadb71b67c99150800000000000000
+      internalID: 5879950051282627186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 204
+        width: 60
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107294aef63f2d60800000000000000
+      internalID: 7867567541350199323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_87
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 204
+        width: 32
+        height: 23
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b739a60cfd2d7010800000000000000
+      internalID: 1188156437162440627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_88
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 200
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f880bdd6d6ba010800000000000000
+      internalID: 1201174044218003305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_89
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 200
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9d3d7a709a496a0800000000000000
+      internalID: -6443339316514792987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 204
+        width: 32
+        height: 23
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f481bcaf001f8fd60800000000000000
+      internalID: 7924348530868295759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_91
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 204
+        width: 60
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9f3aea39464a000800000000000000
+      internalID: 46272481633499621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_92
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 164
+        width: 60
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471b2f6c852bd5110800000000000000
+      internalID: 1251352365843526004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_93
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 164
+        width: 32
+        height: 23
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a57152ef6d2a430800000000000000
+      internalID: 3792830223231703614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_94
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 160
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e37d482876d06f0800000000000000
+      internalID: -716802955409932652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_95
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 160
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16f8b8b60ab60e20800000000000000
+      internalID: 3316542713636648478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_96
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 164
+        width: 32
+        height: 23
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237cd2be931328690800000000000000
+      internalID: -7601459096219433166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_97
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 164
+        width: 60
+        height: 22
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3131c8da85356a0800000000000000
+      internalID: -6461723537943882823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 124
+        width: 16
+        height: 23
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fad6a9d2c54bf9d0800000000000000
+      internalID: -2739519245147251978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_99
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 120
+        width: 15
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41518a69ded6b5c90800000000000000
+      internalID: -7180024313709849324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_100
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 120
+        width: 12
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125493e908e4fcad0800000000000000
+      internalID: -2679836938944821983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_101
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 120
+        width: 16
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecfc751c342b45d0800000000000000
+      internalID: -3077326079900451616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_102
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 120
+        width: 16
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c365e9cdc0c7a0800000000000000
+      internalID: -6358856406826499253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_103
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 120
+        width: 12
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9196233f02f17fc50800000000000000
+      internalID: 6698857197116483865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_104
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 120
+        width: 15
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8604fc389ef40d0800000000000000
+      internalID: -3436271238333306656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_105
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 124
+        width: 16
+        height: 23
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98da1f8f322b1e3f0800000000000000
+      internalID: -873220985162977911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_106
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 81
+        width: 22
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93ab9e2616fdb520800000000000000
+      internalID: 2719600325133312923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_107
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 80
+        width: 16
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14036b3d43b973000800000000000000
+      internalID: 15651774911623233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_108
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 24
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf0e3592666dfa60800000000000000
+      internalID: 7709430710724857796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 24
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24c575d78ca75b00800000000000000
+      internalID: 817311556792861738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_110
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 80
+        width: 16
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a562287939b259270800000000000000
+      internalID: 8256553404755748442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_111
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 81
+        width: 22
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b6206086e9e56c0800000000000000
+      internalID: -4152707636774409344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_112
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 41
+        width: 44
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684b033bbd1e4a050800000000000000
+      internalID: 5811017752935183494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_113
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 32
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90605382a5d69b280800000000000000
+      internalID: -9027063744098400759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_114
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 40
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc267d2de3e1a700800000000000000
+      internalID: 549971237325384911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_115
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 40
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e74752bb66b10820800000000000000
+      internalID: 2882785810163648481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 40
+        width: 32
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef27eceacf6dc8370800000000000000
+      internalID: 8326266191854072574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_117
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 41
+        width: 44
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d534cddb141f050800000000000000
+      internalID: 5832515276121529726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 60
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e50003e28df450c0800000000000000
+      internalID: -4587763381787687452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_119
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 32
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e4ff0fe7fbd9780800000000000000
+      internalID: -8674566755315659230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_120
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6673d215709a015b0800000000000000
+      internalID: -5399630104325441690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_121
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 32
+        height: 31
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc52f2b430703ba20800000000000000
+      internalID: 3076810681151858125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_122
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 32
+        height: 30
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36226e607327ffd10800000000000000
+      internalID: 2161571926825640547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simon-belmont_123
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 60
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5195f029eb6478230800000000000000
+      internalID: 3640956608060545301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
